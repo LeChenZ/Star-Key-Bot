@@ -1,0 +1,12 @@
+{
+  "portweb": 80, // Metter votre port web que vous allez utiliser
+  "bot": {
+    "discord": true, // True si vous voulez activer le bot discord false si vous ne voulez pas
+    "prefix": "!", // Votre préfix perso
+    "owner": [
+      "VOTREIDDISCORD"
+    ],
+    "ipgeo_key": "VOTRECLE", // Mettre vole clé https://app.ipgeolocation.io/
+    "token": "TOKENDEVOTREBOT"
+  }
+}
